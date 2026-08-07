@@ -1,0 +1,7 @@
+.venv
+face_detection_yunet_2023mar.onnx
+face_recognition_sface_2021dec.onnx
+known_faces/Afsal.jpg
+known_faces/Ansif.jpg
+known_faces/Ishaq.jpg
+known_faces/Sahad.jpg
